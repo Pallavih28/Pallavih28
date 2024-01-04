@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pallaviharishchandre@gmail.com**
 
-- ⚡ Fun fact **I am major introvert until you get to know me!**
+- ⚡ Fun fact **I am a major introvert until you get to know me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
