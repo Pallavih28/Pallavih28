@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Harishchandre</h1>
 <h3 align="center">I am a passionate data science enthusiast with a Master's Degree in Statistics.</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif">
 
 - 🔭 I’m currently working on **various data science projects such as Netflix EDA, 911 calls EDA and NYC Trip Duration Prediction**
 
