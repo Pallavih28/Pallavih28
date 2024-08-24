@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pallavi Harishchandre</h1>
-<h3 align="center">I am a passionate data science enthusiast with a Master's Degree in Statistics.</h3>
+<h3 align="center">I am a working professional in E-commerce with a Master's Degree in Statistics.</h3>
 
 
-- 🔭 I’m currently working on **various data science projects such as Netflix EDA, 911 calls EDA and NYC Trip Duration Prediction**
+- 🔭 I’m currently working on **as a Junior Data Scientist at Lenovo**
 
-- 🌱 I’m currently learning **Data Science, AWS**
+- 🌱 I’m currently learning **Deep Learning, AI and AWS**
 
-- 👯 I’m looking to collaborate on **various ML and data analysis projects.**
+- 👯 I’m looking to collaborate on **various ML and DL projects.**
 
 - 💬 Ask me about **Statistics, ML**
 
