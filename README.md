@@ -2,7 +2,7 @@
 <h3 align="center">I am a working professional in E-commerce with a Master's Degree in Statistics.</h3>
 
 
-- 🔭 I’m currently working on **as a Junior Data Scientist at Lenovo**
+- 🔭 I’m currently working on **as a Data Scientist at Lenovo**
 
 - 🌱 I’m currently learning **Deep Learning, AI and AWS**
 
